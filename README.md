@@ -12,7 +12,7 @@ A simple malware deployment protocol. Use strictly in authorized environments fo
 
 2. **Clone the Repository**  
    ```bash
-   git clone muhammad-khalid-bin-walid
+   https://github.com/muhammad-khalid-bin-walid/Wanna-be-papa.git
    ```
 
 3. **Run the Server Script**  
