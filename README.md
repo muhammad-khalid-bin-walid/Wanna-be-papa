@@ -54,3 +54,4 @@ A simple malware deployment protocol. Use strictly in authorized environments fo
 - Misuse may result in legal consequences.
 ```
 
+Do not attack systems without permissions
