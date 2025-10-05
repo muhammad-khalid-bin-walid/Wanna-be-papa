@@ -54,4 +54,3 @@ A simple malware deployment protocol. Use strictly in authorized environments fo
 - Misuse may result in legal consequences.
 ```
 
-Let me know if you want to modularize this into a simulation-ready framework or wrap it with logging, rollback, or sandbox protocols.
