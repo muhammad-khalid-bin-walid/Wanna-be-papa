@@ -44,6 +44,10 @@ A simple malware deployment protocol. Use strictly in authorized environments fo
 
 9. **Gain Shell Access**  
    Once deployed, initiate shell access to the target system.
+   
+10. You can use the path from the pt.txt
+
+11. Make sure to follow these instructions
 
 ---
 
